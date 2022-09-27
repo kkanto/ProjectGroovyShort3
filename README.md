@@ -1,2 +1,2 @@
-# ProjectGroovyShort3
-This is GroovyTest6
+# maven_template
+This is testow2o12345
